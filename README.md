@@ -12,7 +12,7 @@ Contact me and let's turn your ideas into reality!
 Skills: HTML5 / CSS3 / jQuery / JavaScript / PHP / Mysql / WordPress
 
 - 🔭 I’m currently working on Mamurjor IT. 
-- 🌱 I’m currently learning React, MongoDB 
+- 🌱 I’m currently learning React, MongoDB. 
 - 💬 Ask me about Anything you want. 
 - 📫 How to reach me: hello@niamatif.com 
 
