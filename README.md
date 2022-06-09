@@ -21,7 +21,7 @@ Skills: HTML5 / CSS3 / jQuery / JavaScript / PHP / Mysql / WordPress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niamatif)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=niamatif&show_icons=true)  
+![GitHub stats](https://activity-graph.herokuapp.com/graph?username=niamatif&theme=react-dark&hide_border=true&area=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=niamatif)  
 
