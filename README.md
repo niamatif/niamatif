@@ -9,7 +9,7 @@ I am a dedicated and professional developer who can able to provide effective re
 
 Contact me and let's turn your ideas into reality!
 
-Skills: HTML5 / CSS3 / jQuery / JavaScript / PHP / Mysql / WordPress
+Skills: HTML5 / CSS3 / jQuery / JavaScript / PHP / Mysql / WordPress.
 
 
 - 🔭 I’m currently working on Mamurjor IT. 
