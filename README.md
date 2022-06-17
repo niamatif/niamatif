@@ -5,20 +5,10 @@
 #### I am a professional web developer
 
 
-I am a dedicated and professional developer who can able to provide effective results. With 6 years of experience in programming, I like to write clean, well-tested, and easy-to-understand code. I am Passionate to provide my best services in designing, building, and customizing websites, specifically with WordPress. I am open to learning new technologies to find the best solution for my clients within their timelines.
+I started my journey as a professional web developer back in 2016. Since then I have completed (1000)+ projects globally. I am Committed to providing my best services in designing, building, and customizing websites, specifically with WordPress. With 6 years of experience in programming, I like to write clean, well-tested, and easy-to-understand code. I am open to learning new technologies to find the best solution for my clients within their timelines.
 
-Contact me and let's turn your ideas into reality!
-
-Skills: HTML5 / CSS3 / jQuery / JavaScript / PHP / Mysql / WordPress.
-
-
-- 🔭 I’m currently working on Mamurjor IT. 
-- 🌱 I’m currently learning React, MongoDB. 
-- 💬 Ask me about Anything you want. 
-- 📫 How to reach me: hello@niamatif.com 
-
-
-### 👨‍💻 My Skills:
+ 
+### 👨‍💪 MY STRONG ZONE:
 
 <p>
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d42cacdb5af23f041efb7780aef6b49ac733623684a97a87b000a0821692fee9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d42cacdb5af23f041efb7780aef6b49ac733623684a97a87b000a0821692fee9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" data-canonical-src="https://img.shields.io/badge/html%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -35,6 +25,34 @@ Skills: HTML5 / CSS3 / jQuery / JavaScript / PHP / Mysql / WordPress.
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     
 </p>
+
+🧐 YOU MAY CONSIDER ME FOR:
+
+✔️ Web Design
+✔️ WordPress Theme Customization
+✔️ UI/UX Design
+✔️ eCommerce website (eg: WooCommerce, Shopify, OpenCart, Wix, BigCommerce, Prestashop)
+
+📋 WHY ME :
+
+✔️ Super Fast Reply & Flexible Communication.
+✔️ I will help you to save time and money, and grow your business.
+✔️100% Satisfaction Guarantee.
+✔️ REVISION until you are satisfied.
+✔️ VIDEO INSTRUCTION if needed.
+✔️ Optimized and SEO-Friendly Responsive Design.
+
+I will give my 100% to create real, lasting, personalized results for you and do whatever it takes to make your project a success! So, what we are waiting for?
+
+I appreciate your queries if any. and I would be more than happy to discuss your project's needs.
+Let's turn your ideas into reality!
+
+Regards
+Md Niamat Ullah
+
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niamatif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-niamatullah-atif-37823a124/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/niamatif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atif.tc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/niamatif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/niamatif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-niamat-ullah-atif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://niamatif.com)  
