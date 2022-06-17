@@ -48,7 +48,7 @@ I appreciate your queries if any. and I would be more than happy to discuss your
 Let's turn your ideas into reality!
 
 Regards
-Md Niamat Ullah
+
 
 
 
