@@ -28,19 +28,19 @@ I started my journey as a professional web developer back in 2016. Since then I 
 
 🧐 YOU MAY CONSIDER ME FOR:
 
-✔️ Web Design
-✔️ WordPress Theme Customization
-✔️ UI/UX Design
-✔️ eCommerce website (eg: WooCommerce, Shopify, OpenCart, Wix, BigCommerce, Prestashop)
+-✔️ Web Design
+-✔️ WordPress Theme Customization
+-✔️ UI/UX Design
+-✔️ eCommerce website (eg: WooCommerce, Shopify, OpenCart, Wix, BigCommerce, Prestashop)
 
 📋 WHY ME :
 
-✔️ Super Fast Reply & Flexible Communication.
-✔️ I will help you to save time and money, and grow your business.
-✔️100% Satisfaction Guarantee.
-✔️ REVISION until you are satisfied.
-✔️ VIDEO INSTRUCTION if needed.
-✔️ Optimized and SEO-Friendly Responsive Design.
+-✔️ Super Fast Reply & Flexible Communication.
+-✔️ I will help you to save time and money, and grow your business.
+-✔️100% Satisfaction Guarantee.
+-✔️ REVISION until you are satisfied.
+-✔️ VIDEO INSTRUCTION if needed.
+-✔️ Optimized and SEO-Friendly Responsive Design.
 
 I will give my 100% to create real, lasting, personalized results for you and do whatever it takes to make your project a success! So, what we are waiting for?
 
