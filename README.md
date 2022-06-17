@@ -31,7 +31,7 @@ I started my journey as a professional web developer back in 2016. Since then I 
 - ✔️ Web Design
 - ✔️ WordPress Theme Customization
 - ✔️ UI/UX Design
-- ✔️ eCommerce website (eg: WooCommerce, Shopify, OpenCart, Wix, BigCommerce, Prestashop)
+- ✔️ eCommerce website (eg: WooCommerce)
 
 📋 WHY ME :
 
