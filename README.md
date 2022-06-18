@@ -5,7 +5,8 @@
 #### I am a professional web developer
 
 
-I started my journey as a professional web developer back in 2016. Since then I have completed (1000)+ projects globally. I am Committed to providing my best services in designing, building, and customizing websites, specifically with WordPress. With 6 years of experience in programming, I like to write clean, well-tested, and easy-to-understand code. I am open to learning new technologies to find the best solution for my clients within their timelines.
+I started my journey as a professional web developer back in 2016. Since then I have completed (1000)+ projects globally. I am Committed to providing my best services in designing, building, and customizing websites, specifically with WordPress. 
+With 6 years of experience in programming, I like to write clean, well-tested, and easy-to-understand code. I am open to learning new technologies to find the best solution for my clients within their timelines.
 
  
 ### 💪 MY STRONG ZONE :
