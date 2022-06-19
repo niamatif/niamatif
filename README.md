@@ -33,6 +33,7 @@ With 6 years of experience in programming, I like to write clean, well-tested, a
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8ffe85b1568f67f58bb9988e94edcd0694f2fcc3703fc41752250349bc8ffba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f626570686f746f73686f702d2532333331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626570686f746f73686f70266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/8ffe85b1568f67f58bb9988e94edcd0694f2fcc3703fc41752250349bc8ffba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f626570686f746f73686f702d2532333331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626570686f746f73686f70266c6f676f436f6c6f723d7768697465" alt="Adobe Photoshop" data-canonical-src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" style="max-width: 100%;"></a>
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5e97a4e428eb8bdf169c671b77ebe47f45cf9ca4e704e4bcac4932d3c8511ad6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5e97a4e428eb8bdf169c671b77ebe47f45cf9ca4e704e4bcac4932d3c8511ad6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465" alt="Canva" data-canonical-src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" style="max-width: 100%;"></a>
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://trello.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/683aaecaf30a92d10bd63648b993c50fa27d8b72ce9228ca5ec94c7f06590cf0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7472656c6c6f2d77686974653f6c6f676f3d7472656c6c6f266c6f676f436f6c6f723d303035324343267374796c653d666f722d7468652d6261646765" alt="trello" data-canonical-src="https://img.shields.io/badge/-trello-white?logo=trello&amp;logoColor=0052CC&amp;style=for-the-badge" style="max-width: 100%;"></a>
 </p>
 
 ### 🧐 YOU MAY CONSIDER ME FOR:
@@ -59,8 +60,6 @@ Let's turn your ideas into reality!
 Regards
 
 
-
-
 ### 🔗 CONNECT WITH ME :
 
 <a href="https://github.com/niamatif" rel="nofollow">
@@ -79,9 +78,14 @@ Regards
     <a href="https://dev.to/niamatif" rel="nofollow">
       <img src="https://camo.githubusercontent.com/a773dd0f023caac00db70074074be4a6de713c475e3568433135da862ccbf70f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4445562e746f2d3041304130412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646576646f74746f266c6f676f436f6c6f723d7768697465" alt="elanza48" data-canonical-src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" style="max-width: 100%;">
     </a>
- <a href="https://www.facebook.com/niamatif" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" style="max-width: 100%;" width="40" height="30" align="middle"></a>
- <a href="https://stackoverflow.com/users/md-niamat-ullah-atif" rel="nofollow"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>
+ <a href="https://www.facebook.com/niamatif" rel="nofollow"><img src="https://camo.githubusercontent.com/8559e55747950a4346e9c90e08a6b792d9dec0ccafb094fbd7bb5bf1bbd43003/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://www.youtube.com/channel/UCbifiUBLzz0zNRx4h_fIEEA" rel="nofollow"><img src="https://camo.githubusercontent.com/165da3cf9ab80bd8395e6de8c28077d68982319c6ecf871f6f54443c68886840/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://stackoverflow.com/users/md-niamat-ullah-atif" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" style="max-width: 100%;" width="22px" align="left"></a>
  <a href="https://niamatif.com" rel="nofollow"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<p dir="auto"><a href="https://www.buymeacoffee.com/atifru14j" rel="nofollow"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;" width="200"></a></p>
+
 
 ## GitHub Stats
 
