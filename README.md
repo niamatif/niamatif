@@ -28,14 +28,14 @@ With 6 years of experience in programming, I like to write clean, well-tested, a
     
 </p>
 
-###🧐 YOU MAY CONSIDER ME FOR:
+### 🧐 YOU MAY CONSIDER ME FOR:
 
 - ✔️ Web Design
 - ✔️ WordPress Theme Customization
 - ✔️ UI/UX Design
 - ✔️ eCommerce website (eg: WooCommerce)
 
-###📋 WHY ME :
+### 📋 WHY ME :
 
 - ✔️ Super Fast Reply & Flexible Communication.
 - ✔️ I will help you to save time and money, and grow your business.
