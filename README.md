@@ -1,6 +1,3 @@
-![I am a professional web developer with proficiency]
-![Banner](https://raw.githubusercontent.com/niamatif/niamatif/main/assets/banner.png)
-
 ### Hi there 👋,
 # This is MD. Niamatullah Atif 
 #### I am a professional web developer
